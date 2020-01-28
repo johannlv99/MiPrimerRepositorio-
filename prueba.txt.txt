@@ -1,3 +1,4 @@
 Hola esta es mi primera practica usando git 
-
+Integrantes :
 Johann Lucio Vera 
+Pedro Vicuña
